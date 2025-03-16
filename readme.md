@@ -1,4 +1,4 @@
-# :wave: Hey, I'm Erick.
+# :wave: Hey, I'm Nic.
 
 I'm an undergraduate computer science student at the University of Central Florida (UCF). I have a passion for graphics programming and game development; in my free time, I enjoy working with computer graphics and procedural VFX.
 
